@@ -1,0 +1,1876 @@
+shutian@shutian-virtual-machine:~/Desktop/Project/code$ python danet-softmax.py
+Reading file......
+Reading file......
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   1 |     1/    1 batches | ms/batch 12192.71 | loss 9326.98 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   1 | time: 12.20s | training loss 9326.98 |
+In class DANET forward
+    | end of validation epoch   1 | time:  1.90s | validation loss 9266.34 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   2 |     1/    1 batches | ms/batch 11689.32 | loss 9322.78 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   2 | time: 11.69s | training loss 9322.78 |
+In class DANET forward
+    | end of validation epoch   2 | time:  1.44s | validation loss 9263.11 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   3 |     1/    1 batches | ms/batch 11412.20 | loss 9314.19 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   3 | time: 11.41s | training loss 9314.19 |
+In class DANET forward
+    | end of validation epoch   3 | time:  1.41s | validation loss 9256.45 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   4 |     1/    1 batches | ms/batch 10467.12 | loss 9296.21 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   4 | time: 10.47s | training loss 9296.21 |
+In class DANET forward
+    | end of validation epoch   4 | time:  1.40s | validation loss 9242.53 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   5 |     1/    1 batches | ms/batch 10404.80 | loss 9258.12 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   5 | time: 10.40s | training loss 9258.12 |
+In class DANET forward
+    | end of validation epoch   5 | time:  1.25s | validation loss 9213.04 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   6 |     1/    1 batches | ms/batch 10368.00 | loss 9176.72 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   6 | time: 10.37s | training loss 9176.72 |
+In class DANET forward
+    | end of validation epoch   6 | time:  1.23s | validation loss 9152.99 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   7 |     1/    1 batches | ms/batch 10649.28 | loss 9008.16 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   7 | time: 10.65s | training loss 9008.16 |
+In class DANET forward
+    | end of validation epoch   7 | time:  1.25s | validation loss 9047.65 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   8 |     1/    1 batches | ms/batch 10442.36 | loss 8696.78 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   8 | time: 10.44s | training loss 8696.78 |
+In class DANET forward
+    | end of validation epoch   8 | time:  1.26s | validation loss 8919.23 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch   9 |     1/    1 batches | ms/batch 10498.27 | loss 8238.08 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch   9 | time: 10.50s | training loss 8238.08 |
+In class DANET forward
+    | end of validation epoch   9 | time:  1.30s | validation loss 8875.42 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  10 |     1/    1 batches | ms/batch 10563.40 | loss 7752.89 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  10 | time: 10.56s | training loss 7752.89 |
+In class DANET forward
+    | end of validation epoch  10 | time:  1.29s | validation loss 8966.71 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  11 |     1/    1 batches | ms/batch 10510.21 | loss 7390.47 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  11 | time: 10.51s | training loss 7390.47 |
+In class DANET forward
+    | end of validation epoch  11 | time:  1.29s | validation loss 9046.04 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  12 |     1/    1 batches | ms/batch 10730.50 | loss 7149.69 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  12 | time: 10.73s | training loss 7149.69 |
+In class DANET forward
+    | end of validation epoch  12 | time:  1.31s | validation loss 9032.44 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  13 |     1/    1 batches | ms/batch 10679.18 | loss 6964.09 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  13 | time: 10.68s | training loss 6964.09 |
+In class DANET forward
+    | end of validation epoch  13 | time:  1.32s | validation loss 8964.40 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  14 |     1/    1 batches | ms/batch 10642.24 | loss 6821.84 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  14 | time: 10.64s | training loss 6821.84 |
+In class DANET forward
+    | end of validation epoch  14 | time:  1.32s | validation loss 8894.67 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  15 |     1/    1 batches | ms/batch 11870.40 | loss 6719.88 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  15 | time: 11.87s | training loss 6719.88 |
+In class DANET forward
+    | end of validation epoch  15 | time:  1.35s | validation loss 8848.92 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  16 |     1/    1 batches | ms/batch 11860.97 | loss 6635.21 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  16 | time: 11.86s | training loss 6635.21 |
+In class DANET forward
+    | end of validation epoch  16 | time:  1.49s | validation loss 8825.47 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  17 |     1/    1 batches | ms/batch 11548.86 | loss 6545.02 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  17 | time: 11.55s | training loss 6545.02 |
+In class DANET forward
+    | end of validation epoch  17 | time:  1.35s | validation loss 8802.43 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  18 |     1/    1 batches | ms/batch 11058.80 | loss 6438.82 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  18 | time: 11.06s | training loss 6438.82 |
+In class DANET forward
+    | end of validation epoch  18 | time:  1.33s | validation loss 8780.89 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  19 |     1/    1 batches | ms/batch 10937.34 | loss 6325.82 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  19 | time: 10.94s | training loss 6325.82 |
+In class DANET forward
+    | end of validation epoch  19 | time:  1.34s | validation loss 8753.22 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  20 |     1/    1 batches | ms/batch 10902.96 | loss 6218.64 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  20 | time: 10.90s | training loss 6218.64 |
+In class DANET forward
+    | end of validation epoch  20 | time:  1.34s | validation loss 8726.54 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  21 |     1/    1 batches | ms/batch 10882.85 | loss 6122.43 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  21 | time: 10.88s | training loss 6122.43 |
+In class DANET forward
+    | end of validation epoch  21 | time:  1.32s | validation loss 8689.94 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  22 |     1/    1 batches | ms/batch 10914.19 | loss 6036.96 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  22 | time: 10.91s | training loss 6036.96 |
+In class DANET forward
+    | end of validation epoch  22 | time:  1.34s | validation loss 8627.75 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  23 |     1/    1 batches | ms/batch 11037.09 | loss 5957.05 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  23 | time: 11.04s | training loss 5957.05 |
+In class DANET forward
+    | end of validation epoch  23 | time:  1.32s | validation loss 8568.66 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  24 |     1/    1 batches | ms/batch 10936.39 | loss 5878.99 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  24 | time: 10.94s | training loss 5878.99 |
+In class DANET forward
+    | end of validation epoch  24 | time:  1.31s | validation loss 8514.53 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  25 |     1/    1 batches | ms/batch 10915.74 | loss 5802.46 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  25 | time: 10.92s | training loss 5802.46 |
+In class DANET forward
+    | end of validation epoch  25 | time:  1.36s | validation loss 8461.70 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  26 |     1/    1 batches | ms/batch 11608.76 | loss 5726.95 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  26 | time: 11.61s | training loss 5726.95 |
+In class DANET forward
+    | end of validation epoch  26 | time:  1.33s | validation loss 8413.62 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  27 |     1/    1 batches | ms/batch 11885.10 | loss 5653.39 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  27 | time: 11.89s | training loss 5653.39 |
+In class DANET forward
+    | end of validation epoch  27 | time:  1.30s | validation loss 8375.27 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  28 |     1/    1 batches | ms/batch 10950.63 | loss 5582.13 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  28 | time: 10.95s | training loss 5582.13 |
+In class DANET forward
+    | end of validation epoch  28 | time:  1.45s | validation loss 8344.82 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  29 |     1/    1 batches | ms/batch 10784.35 | loss 5512.70 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  29 | time: 10.78s | training loss 5512.70 |
+In class DANET forward
+    | end of validation epoch  29 | time:  1.30s | validation loss 8321.28 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  30 |     1/    1 batches | ms/batch 11307.30 | loss 5448.89 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  30 | time: 11.31s | training loss 5448.89 |
+In class DANET forward
+    | end of validation epoch  30 | time:  1.37s | validation loss 8296.66 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  31 |     1/    1 batches | ms/batch 12019.16 | loss 5390.51 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  31 | time: 12.02s | training loss 5390.51 |
+In class DANET forward
+    | end of validation epoch  31 | time:  1.33s | validation loss 8288.04 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  32 |     1/    1 batches | ms/batch 13572.83 | loss 5334.97 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  32 | time: 13.57s | training loss 5334.97 |
+In class DANET forward
+    | end of validation epoch  32 | time:  1.63s | validation loss 8291.91 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  33 |     1/    1 batches | ms/batch 11189.56 | loss 5276.12 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  33 | time: 11.19s | training loss 5276.12 |
+In class DANET forward
+    | end of validation epoch  33 | time:  1.32s | validation loss 8284.19 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  34 |     1/    1 batches | ms/batch 12303.21 | loss 5214.72 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  34 | time: 12.30s | training loss 5214.72 |
+In class DANET forward
+    | end of validation epoch  34 | time:  1.33s | validation loss 8259.87 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  35 |     1/    1 batches | ms/batch 11380.10 | loss 5148.73 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  35 | time: 11.38s | training loss 5148.73 |
+In class DANET forward
+    | end of validation epoch  35 | time:  1.43s | validation loss 8235.34 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  36 |     1/    1 batches | ms/batch 13250.81 | loss 5081.42 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  36 | time: 13.25s | training loss 5081.42 |
+In class DANET forward
+    | end of validation epoch  36 | time:  1.92s | validation loss 8216.55 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  37 |     1/    1 batches | ms/batch 10921.05 | loss 5014.31 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  37 | time: 10.92s | training loss 5014.31 |
+In class DANET forward
+    | end of validation epoch  37 | time:  1.35s | validation loss 8192.24 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  38 |     1/    1 batches | ms/batch 11128.50 | loss 4946.27 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  38 | time: 11.13s | training loss 4946.27 |
+In class DANET forward
+    | end of validation epoch  38 | time:  1.30s | validation loss 8157.11 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  39 |     1/    1 batches | ms/batch 10891.82 | loss 4877.64 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  39 | time: 10.89s | training loss 4877.64 |
+In class DANET forward
+    | end of validation epoch  39 | time:  1.33s | validation loss 8103.31 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  40 |     1/    1 batches | ms/batch 11260.01 | loss 4804.84 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  40 | time: 11.26s | training loss 4804.84 |
+In class DANET forward
+    | end of validation epoch  40 | time:  1.31s | validation loss 8058.15 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  41 |     1/    1 batches | ms/batch 12462.92 | loss 4728.74 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  41 | time: 12.46s | training loss 4728.74 |
+In class DANET forward
+    | end of validation epoch  41 | time:  1.31s | validation loss 8046.28 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  42 |     1/    1 batches | ms/batch 10759.52 | loss 4658.75 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  42 | time: 10.76s | training loss 4658.75 |
+In class DANET forward
+    | end of validation epoch  42 | time:  1.31s | validation loss 8004.30 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  43 |     1/    1 batches | ms/batch 10932.37 | loss 4597.13 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  43 | time: 10.93s | training loss 4597.13 |
+In class DANET forward
+    | end of validation epoch  43 | time:  1.29s | validation loss 8084.54 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  44 |     1/    1 batches | ms/batch 10574.39 | loss 4541.00 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  44 | time: 10.57s | training loss 4541.00 |
+In class DANET forward
+    | end of validation epoch  44 | time:  1.29s | validation loss 8072.80 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  45 |     1/    1 batches | ms/batch 10672.95 | loss 4471.10 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  45 | time: 10.67s | training loss 4471.10 |
+In class DANET forward
+    | end of validation epoch  45 | time:  1.29s | validation loss 7998.62 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  46 |     1/    1 batches | ms/batch 10825.81 | loss 4426.23 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  46 | time: 10.83s | training loss 4426.23 |
+In class DANET forward
+    | end of validation epoch  46 | time:  1.29s | validation loss 8093.92 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  47 |     1/    1 batches | ms/batch 10552.17 | loss 4360.50 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  47 | time: 10.55s | training loss 4360.50 |
+In class DANET forward
+    | end of validation epoch  47 | time:  1.30s | validation loss 8075.16 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  48 |     1/    1 batches | ms/batch 10747.04 | loss 4300.40 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  48 | time: 10.75s | training loss 4300.40 |
+In class DANET forward
+    | end of validation epoch  48 | time:  1.37s | validation loss 7961.08 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  49 |     1/    1 batches | ms/batch 11102.87 | loss 4247.96 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  49 | time: 11.10s | training loss 4247.96 |
+In class DANET forward
+    | end of validation epoch  49 | time:  1.37s | validation loss 7976.46 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  50 |     1/    1 batches | ms/batch 10656.96 | loss 4186.28 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  50 | time: 10.66s | training loss 4186.28 |
+In class DANET forward
+    | end of validation epoch  50 | time:  1.31s | validation loss 8058.79 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  51 |     1/    1 batches | ms/batch 10577.04 | loss 4136.97 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  51 | time: 10.58s | training loss 4136.97 |
+In class DANET forward
+    | end of validation epoch  51 | time:  1.30s | validation loss 8005.70 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  52 |     1/    1 batches | ms/batch 10551.42 | loss 4073.77 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  52 | time: 10.55s | training loss 4073.77 |
+In class DANET forward
+    | end of validation epoch  52 | time:  1.29s | validation loss 7990.74 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  53 |     1/    1 batches | ms/batch 10656.04 | loss 4016.28 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  53 | time: 10.66s | training loss 4016.28 |
+In class DANET forward
+    | end of validation epoch  53 | time:  1.32s | validation loss 8052.04 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  54 |     1/    1 batches | ms/batch 10797.82 | loss 3966.69 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  54 | time: 10.80s | training loss 3966.69 |
+In class DANET forward
+    | end of validation epoch  54 | time:  1.31s | validation loss 7966.39 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  55 |     1/    1 batches | ms/batch 10688.19 | loss 3920.82 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  55 | time: 10.69s | training loss 3920.82 |
+In class DANET forward
+    | end of validation epoch  55 | time:  1.36s | validation loss 8036.72 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  56 |     1/    1 batches | ms/batch 11053.62 | loss 3860.09 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  56 | time: 11.05s | training loss 3860.09 |
+In class DANET forward
+    | end of validation epoch  56 | time:  1.29s | validation loss 7960.16 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  57 |     1/    1 batches | ms/batch 10679.42 | loss 3786.13 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  57 | time: 10.68s | training loss 3786.13 |
+In class DANET forward
+    | end of validation epoch  57 | time:  1.29s | validation loss 7968.94 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  58 |     1/    1 batches | ms/batch 10706.82 | loss 3714.39 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  58 | time: 10.71s | training loss 3714.39 |
+In class DANET forward
+    | end of validation epoch  58 | time:  1.30s | validation loss 7983.45 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  59 |     1/    1 batches | ms/batch 10776.62 | loss 3648.29 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  59 | time: 10.78s | training loss 3648.29 |
+In class DANET forward
+    | end of validation epoch  59 | time:  1.30s | validation loss 7958.26 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  60 |     1/    1 batches | ms/batch 10715.87 | loss 3605.89 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  60 | time: 10.72s | training loss 3605.89 |
+In class DANET forward
+    | end of validation epoch  60 | time:  1.29s | validation loss 8029.40 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  61 |     1/    1 batches | ms/batch 10674.94 | loss 3694.78 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  61 | time: 10.68s | training loss 3694.78 |
+In class DANET forward
+    | end of validation epoch  61 | time:  1.31s | validation loss 7939.82 |
+---------------------------------------------------------------------------------------------------
+      Best validation model found and saved.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  62 |     1/    1 batches | ms/batch 10765.43 | loss 3489.98 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  62 | time: 10.77s | training loss 3489.98 |
+In class DANET forward
+    | end of validation epoch  62 | time:  1.30s | validation loss 8042.66 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  63 |     1/    1 batches | ms/batch 10743.96 | loss 3612.50 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  63 | time: 10.74s | training loss 3612.50 |
+In class DANET forward
+    | end of validation epoch  63 | time:  1.30s | validation loss 7995.23 |
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  64 |     1/    1 batches | ms/batch 10716.87 | loss 3498.26 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  64 | time: 10.72s | training loss 3498.26 |
+In class DANET forward
+    | end of validation epoch  64 | time:  1.31s | validation loss 8080.08 |
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  65 |     1/    1 batches | ms/batch 10685.31 | loss 3562.22 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  65 | time: 10.69s | training loss 3562.22 |
+In class DANET forward
+    | end of validation epoch  65 | time:  1.31s | validation loss 7942.52 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  66 |     1/    1 batches | ms/batch 10721.29 | loss 3291.74 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  66 | time: 10.72s | training loss 3291.74 |
+In class DANET forward
+    | end of validation epoch  66 | time:  1.31s | validation loss 8655.04 |
+---------------------------------------------------------------------------------------------------
+      Best training model found.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  67 |     1/    1 batches | ms/batch 10761.12 | loss 8727.86 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  67 | time: 10.76s | training loss 8727.86 |
+In class DANET forward
+    | end of validation epoch  67 | time:  1.30s | validation loss 8472.02 |
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  68 |     1/    1 batches | ms/batch 10554.63 | loss 7487.01 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  68 | time: 10.55s | training loss 7487.01 |
+In class DANET forward
+    | end of validation epoch  68 | time:  1.31s | validation loss 8763.32 |
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  69 |     1/    1 batches | ms/batch 10697.99 | loss 6681.66 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  69 | time: 10.70s | training loss 6681.66 |
+In class DANET forward
+    | end of validation epoch  69 | time:  1.32s | validation loss 8345.90 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  70 |     1/    1 batches | ms/batch 10738.97 | loss 5970.62 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  70 | time: 10.74s | training loss 5970.62 |
+In class DANET forward
+    | end of validation epoch  70 | time:  1.29s | validation loss 8160.22 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  71 |     1/    1 batches | ms/batch 10701.70 | loss 5948.44 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  71 | time: 10.70s | training loss 5948.44 |
+In class DANET forward
+    | end of validation epoch  71 | time:  1.45s | validation loss 8127.80 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  72 |     1/    1 batches | ms/batch 11218.77 | loss 5471.63 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  72 | time: 11.22s | training loss 5471.63 |
+In class DANET forward
+    | end of validation epoch  72 | time:  1.38s | validation loss 8182.98 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  73 |     1/    1 batches | ms/batch 10722.60 | loss 5277.59 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  73 | time: 10.72s | training loss 5277.59 |
+In class DANET forward
+    | end of validation epoch  73 | time:  1.31s | validation loss 8159.05 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  74 |     1/    1 batches | ms/batch 10833.11 | loss 5189.04 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  74 | time: 10.83s | training loss 5189.04 |
+In class DANET forward
+    | end of validation epoch  74 | time:  1.31s | validation loss 8167.02 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  75 |     1/    1 batches | ms/batch 11097.78 | loss 5144.21 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  75 | time: 11.10s | training loss 5144.21 |
+In class DANET forward
+    | end of validation epoch  75 | time:  1.28s | validation loss 8171.85 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  76 |     1/    1 batches | ms/batch 10545.30 | loss 5121.79 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  76 | time: 10.55s | training loss 5121.79 |
+In class DANET forward
+    | end of validation epoch  76 | time:  1.30s | validation loss 8173.71 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  77 |     1/    1 batches | ms/batch 10647.11 | loss 5110.59 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  77 | time: 10.65s | training loss 5110.59 |
+In class DANET forward
+    | end of validation epoch  77 | time:  1.29s | validation loss 8174.67 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  78 |     1/    1 batches | ms/batch 10615.81 | loss 5104.99 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  78 | time: 10.62s | training loss 5104.99 |
+In class DANET forward
+    | end of validation epoch  78 | time:  1.30s | validation loss 8175.12 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  79 |     1/    1 batches | ms/batch 10614.63 | loss 5102.19 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  79 | time: 10.61s | training loss 5102.19 |
+In class DANET forward
+    | end of validation epoch  79 | time:  1.31s | validation loss 8175.34 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  80 |     1/    1 batches | ms/batch 10638.86 | loss 5100.80 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  80 | time: 10.64s | training loss 5100.80 |
+In class DANET forward
+    | end of validation epoch  80 | time:  1.31s | validation loss 8175.45 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  81 |     1/    1 batches | ms/batch 10599.01 | loss 5100.10 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  81 | time: 10.60s | training loss 5100.10 |
+In class DANET forward
+    | end of validation epoch  81 | time:  1.30s | validation loss 8175.50 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  82 |     1/    1 batches | ms/batch 10666.03 | loss 5099.75 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  82 | time: 10.67s | training loss 5099.75 |
+In class DANET forward
+    | end of validation epoch  82 | time:  1.33s | validation loss 8175.52 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  83 |     1/    1 batches | ms/batch 10676.87 | loss 5099.58 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  83 | time: 10.68s | training loss 5099.58 |
+In class DANET forward
+    | end of validation epoch  83 | time:  1.30s | validation loss 8175.54 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  84 |     1/    1 batches | ms/batch 10541.79 | loss 5099.49 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  84 | time: 10.54s | training loss 5099.49 |
+In class DANET forward
+    | end of validation epoch  84 | time:  1.34s | validation loss 8175.54 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  85 |     1/    1 batches | ms/batch 10709.31 | loss 5099.45 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  85 | time: 10.71s | training loss 5099.45 |
+In class DANET forward
+    | end of validation epoch  85 | time:  1.31s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  86 |     1/    1 batches | ms/batch 10601.36 | loss 5099.43 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  86 | time: 10.60s | training loss 5099.43 |
+In class DANET forward
+    | end of validation epoch  86 | time:  1.31s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  87 |     1/    1 batches | ms/batch 10553.66 | loss 5099.42 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  87 | time: 10.55s | training loss 5099.42 |
+In class DANET forward
+    | end of validation epoch  87 | time:  1.46s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  88 |     1/    1 batches | ms/batch 11720.74 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  88 | time: 11.72s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  88 | time:  1.35s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  89 |     1/    1 batches | ms/batch 11163.80 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  89 | time: 11.16s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  89 | time:  1.30s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  90 |     1/    1 batches | ms/batch 11034.88 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  90 | time: 11.03s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  90 | time:  1.43s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  91 |     1/    1 batches | ms/batch 11220.50 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  91 | time: 11.22s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  91 | time:  1.28s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  92 |     1/    1 batches | ms/batch 10833.13 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  92 | time: 10.83s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  92 | time:  1.29s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  93 |     1/    1 batches | ms/batch 10798.39 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  93 | time: 10.80s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  93 | time:  1.30s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  94 |     1/    1 batches | ms/batch 10788.85 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  94 | time: 10.79s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  94 | time:  1.32s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  95 |     1/    1 batches | ms/batch 10766.98 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  95 | time: 10.77s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  95 | time:  1.29s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  96 |     1/    1 batches | ms/batch 10809.80 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  96 | time: 10.81s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  96 | time:  1.31s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  97 |     1/    1 batches | ms/batch 10722.74 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  97 | time: 10.72s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  97 | time:  1.30s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  98 |     1/    1 batches | ms/batch 11886.74 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  98 | time: 11.89s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  98 | time:  1.36s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch  99 |     1/    1 batches | ms/batch 10754.91 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch  99 | time: 10.76s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch  99 | time:  1.48s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+bbbbbbbbbb
+In class DANET forward
+bbbbbbbbbb
+ccccccccc
+dddddddddd
+eeeeeeeeee
+fffffffffff
+| epoch 100 |     1/    1 batches | ms/batch 13216.65 | loss 5099.41 |
+ggggggggggggg
+---------------------------------------------------------------------------------------------------
+    | end of training epoch 100 | time: 13.22s | training loss 5099.41 |
+In class DANET forward
+    | end of validation epoch 100 | time:  1.55s | validation loss 8175.55 |
+---------------------------------------------------------------------------------------------------
+      Learning rate decreased.
+---------------------------------------------------------------------------------------------------
+
